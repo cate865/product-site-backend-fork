@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-z2xi#!so&jmg==8iw(5(!t)!xlbfo$gy&24-a&$v9bd@tx0t3k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quest-realty-site.herokuapp.com']
 
 
 # Application definition
